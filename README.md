@@ -2,182 +2,46 @@
 
 **Quirk is no longer being maintained.**
 
-Quirk started as a little thing I made for myself as I started doing CBT. As I got better, I needed Quirk less. But at the same time, lots of other people had discovered Quirk and started picking it up. That meant more bug fixes, more features, and just more work to be done. I really couldn't keep it up well, especially with my main focus at the time (my day job). 
+One of the biggest challenges the world is currently facing is mental health. There is a sense of anxiety, depression, and uncertainty in society. Though we will inch closer to finding a solution for COVID-19, it will take longer for the fear to subside. On this World Mental Health Day, let’s take a step back and shift our awareness on these six crucial aspects of mental well-being.
 
-So in order to work on it full time, my brother and I tried to turn it into a company. That way we could continue to develop Quirk as a primary focus, even if we didn't need it anymore. 
+Gurudev calls this the ‘art of living’ where people are taught about the interlinking between life, breath, and emotions. It is important that we learn and teach our children, and families about consciousness, and the different tendencies of the mind. We need to educate our people to be happy with themselves and friendly with others and wean from the complex psychological gymnastics of the mind. If we are unhappy, we can never be friendly; and if we are unfriendly, we can never be happy.
 
-For awhile, Quirk was going quite well. Lots of people subscribed, we got backed by [Y Combinator](https://www.ycombinator.com/), and we were growing _very_ quickly. 
+Do you know there is a state of the mind that gives us a deeper rest than even sleep? We are generally aware of the three states of consciousness – waking, dreaming, and sleeping.
 
-Unfortunately, in order for the business to work and for us to pay ourselves, we needed folks to be subscribed for a fair amount of time. But in general, most people fell into three camps: didn't use the app at all (and weren't getting value for what they paid), felt better and then unsubscribed, or didn't feel better but persisted anyway. That meant the business model treated successes as failures and failures as successes. So a future Quirk would need to make people feel worse for longer or otherwise not help people we signed up to help. If the incentives of the business weren't aligned with the people, it would have been naive to assume that we could easily fix it as the organization grew and we held less control. We didn't want to go down that path, so we pivoted the company. 
+There is some activity as our body recuperates and grows in sleep. It is the fourth state, which is devoid of activity which results in very low metabolism. Through meditation, it is possible to go deeper into this fourth state and get the deepest rest.
 
-Anyone who's followed this project will know that we explored multiple paths towards sustainability. Much of it was discussed in the PRs and issues of this repo. We've investigated a completely free model, an indie open source model, a community open source model, a donation model, a pay-up-front model, an ad model, a tele-therapy model, and a subscription model. 
+The mind is like a slate. When we keep writing on the slate, again and again, without erasing, nothing is legible. Our mind becomes like that when we are unable to let go and cleanse it. We all have memories but when we are stuck with one memory that is called trauma.
 
-**Quirk (the company) is now Room Service.**
+Yoga leads to a cessation of the modulations of the mind. “Drashtuh swarupe avasthanam” – with the practice of yoga, one abides in one’s true nature (consciousness), the seer. A person becomes miserable when the seer and scenery are confused. Yoga helps in developing discrimination (viveka) – a much-needed tool in everyday living. Through a deeper and more holistic understanding of life, living becomes more effortless.
 
-Now-a-days, we're making [Room Service](https://www.roomservice.dev/), which helps folks build multiplayer stuff, like what Figma or Google Docs have. Multiple cursors, CRDTs, sockets, lots of people editing the same thing, that sort of thing. We're still the same commercial entity and such, just making a different product now. If you think multiplayer systems are cool and want to join us, send me an email: `evan @ roomservice . dev`. 
+We have four inner faculties of consciousness – mind, memory, intellect, ego, or the sense of awareness that ‘I am’. Being aware of these inner faculties makes an individual more mindful of his/her actions.
 
-**Make your own Quirk.**
+Consciousness is a bridge between the heart and the mind. While science is the matter of the head, art is the matter of the heart. Combining these two extremities of our consciousness – science, and art – helps us live a fuller and happier life. Art is an outlet for our emotions, even for those emotions which are stuck and not expressed properly. Art – be it painting or music or dance – all help to regain the natural balance in life.
 
-If you like Quirk and want it to continue, feel free to fork it. We'd ask that you change the name to avoid confusion. Just heed our warning, becareful about the way you keep yourself afloat and becareful about your desire to work on this full-time. There's [more of a write up about this here.](https://evanjconrad.com/posts/moral-competence) 
+Hopelessness and anxiety are gone
 
-If you want to fork Quirk, you should fork off of [this commit](https://github.com/Flaque/quirk/commit/7a4eabe48414de5edfefcd693e79178120eae142), it's right before we added payments and when the code was the cleanest. 
+I was ridden by deep depression and anxiety all my life. After applying your method in 2011, the symptoms started to leave. No endless ruminations anymore. Hopelessness and anxiety are pretty much gone. I'm still lacking in drive and energy, but more interested in things to enjoy and in practical matters rather than worrying about it. I just used the core method, the Looking, though. The Self-Directed Attention Exercise had proved too hard for me yet. Both techniques are described in the book in great detail, clearly referring to a lot of real-world experience working with people. There's no beating around the bush. You get to know what to do right off the bat. Every line brims with dedication, spirit of research and enthusiasm about this work. It touched my heart.
 
-🚧🚧🚧
+This has worked when nothing else has!
 
+If you're looking to find inner peace and a life that's satisfying, this is THE BOOK TO BUY!! What it does: Gives simple instructions to a simple action that anyone can do! What the results are if you follow the directions: A mind that no longer has the voices telling you that "Life sucks" or "I'm not good enough " All those things that mind does will be seen as just noise! Noise that you can starve out by the power of your attention or lack placement of attention on said noise! Personal experience: As I've worked with the instructions in this book I can honestly say that my mind is a quiet friendly place for the 1st time in 58 years! And now I love my life! Which for me is a total 180 degree turn around! I cannot recommend this book highly enough!!
 
----
+Great little instruction booklet on being human
+I enjoyed reading this very practical and pleasantly short guide on a practice that has the potential to transform anyone’s life. John and Carla's take on self-enquiry is unique and legit. Their use of a meditation technique to aid focus and daily attention is also useful.
 
-<p align="center">
-<h1 align="center">✨🐙 quirk. </h1>
-</p>
-<p align="center">
-  <a href="https://itunes.apple.com/us/app/quirk-cbt/id1447026451?mt=8">Download iOS</a> • <a href="https://play.google.com/store/apps/details?id=tech.econn.quirk">Download Android</a> • <a href="mailto:humans+github@quirk.fyi">Contact</a> • <a href="https://tinyletter.com/quirk">Newsletter</a>
-<br><br>
-</p>
+Can change your life by taking away your suffering
 
-Quirk is a crossplatform, GPL-licensed, [Cognitive Behavioral Therapy (CBT)](https://en.wikipedia.org/wiki/Cognitive_behavioral_therapy)
-app built in React Native / Expo.
+I've been involved in the seeking and spiritual healing fields all my life. I've experienced very few things that make a practical difference in one’s day to day life. For a number of years I was involved with the healer Bruno Groening and one of this main groups devoted to his teaching. Bruno was the most prolific healer I know of in recorded history. I feel the JOL teaching is an evolution of sorts to his teaching. But all spiritual belief paradigms are stripped away with JOL, and you just get a very pure teaching which can actually reduce your suffering in your life. The idea is that you can lose what John and Carla call 'the fear of life' and you can get to the point where you are not suffering no matter what happens. That doesn't mean you don't feel pain, or cry when you lose a loved one, etc. There is a simple (but not easy!) exercise called the 'Self-Directed Attention Exercise' which is the same vehicle as Buddhist anapanasati meditation, but with a different intention—and, imo, this makes all the difference. (If you are a meditator, check out John Sherman's conversation 9 on youtube where he explains the difference between the two). I've never experienced any method/teaching that is making such a practical difference in my life in terms of reducing any suffering that arises. I've been practicing this teaching for around 10 months now. I didn't want to write a review until I felt I was starting to experience consistent results in my life on a day to day basis. Now this is starting to happen for me. I highly recommend checking out John and Carla's website at justonelook.org and checking out all the videos of talks given by John Sherman on youtube. There is also a forum on the justonelook website where people discuss their experiences using this teaching, and I am keeping a record on there of any significant changes I experience as I continue to use this teaching.
 
-Unlike many CBT apps, it's fairly unbiased in what you use it for; it doesn't ask about you
-to do depression-specific CBT exercises. That makes it fairly quick and discreet to use, especially in a public
-setting.
+Everyone should read this book!
 
-![screenshot](https://i.imgur.com/64Cpmpm.png)
+If you're tired of the constant frustrations of life, if you've been searching for years in religion, spiritual teachings, psychology, or self-help books, but haven’t found any lasting answers, this little book is what you need. You won't need another one. John and Carla Sherman offer a detailed description of their Just one Look Method, and a clear explanation of the fundamental, underlying cause of human suffering. The solution almost seems too simple to be true, but I can vouch for the fact that it works. Although I've only been practicing this method for around nine months, I have seen significant changes in my life. My old, neurotic thinking patterns are constantly being overhauled, and I feel as though I'm finally approaching a level of maturity and sanity that was unknown to me before. I’d advise everyone to buy this book and try the Just one Look method. You've got nothing to lose, and more to gain than you can imagine.
 
-## How Quirk Supports Itself
+The DIY Guide to Freedom from the Fear of Life
 
-In order for Quirk to support itself, **it charges a small subscription fee.** Currently it's $5.99 / month in the US, which is roughly the cost of a cup of coffee. This helps pay for a full-time developer to make Quirk not-dead and generally good. 
+Jazzrascal's review says it all. IMHO this is THE guide to ending a lifetime of suffering and searching. Buy it, read it, DO WHAT IT SAYS. Jazzrascal has, I have, others have and it works. All I might add is to urge you to not just read it but do it. And, Amazon Australia, please make it available in Oz in paperback, too.
 
-### The Survival Law of Product Design
 
-To understand _why_ we do a subscription, we can look to the Survival Law of Product Design, a fancy term I just made up. When you make a product, whatever keeps that product alive becomes the primary force of design. 
+Losing a loved one, getting fired from a job, going through a divorce, and other difficult situations can lead a person to feel sad, lonely and scared. These feelings are normal reactions to life's stressors. Most people feel low and sad at times. However, in the case of individuals who are diagnosed with depression as a psychiatric disorder, the manifestations of the low mood are much more severe and they tend to persist.
 
-For example, facebook.com is not Facebook's product, facebook.com/business/ads is Facebook's product. Because 0 dollars are made from facebook accounts, only from advertisers that pay to get access to those facebook accounts. The way you keep the lights on ultimately shapes the product you make. 
-
-So if you want to make a good product that helps folks, you should pick a model of sustainability where the financial incentives of the organization are aligned with the individual interests of the users.
-
-After a lot of tries with other models, that ended up being a subscription. In a subscription, the primary metric is retention: are people still using this thing? If retention drops, people cancel their subscription and you no longer get to exist.
-
-The _only_ solid way to have good retention is to create something that is actively useful and good. Similarly, the only way to get any value from CBT is to consistently do it. 
-
-## Contributors
-
-Some amazing folks have helped build the Quirk you see today.
-
-- [@devinroche](https://github.com/devinroche) for setting up translation and stepping up as a core maintainer 🔥
-- [@devilcius](https://github.com/devilcius) for the amazing Spanish translation 🇪🇸
-- [@idnovic](https://github.com/idnovic) for the amazing German translation 🇩🇪 (and the iPad support!)
-- [@kwierbol](https://github.com/kwierbol) for the amazing Polish translation 🇵🇱
-- [@Walther](https://github.com/Walther) for the amazing Finnish translation 🇫🇮
-- [@Jos512](https://github.com/Jos512) for the amazing Dutch translation 🇳🇱
-- [@jinto](https://github.com/jinto) for the amazing Korean translation 🇰🇷
-- [@briankung](https://github.com/briankung) for the Chinese 🇨🇳 localization, internationalization support and helping guide the entire translation effort. 🎉
-- [@akinariobi](https://github.com/akinariobi) for the Russian translation 🇷🇺 
-- [@miguelmf](https://github.com/miguelmf) for the Portugese translation 🇵🇹
-- [@comradekingu](https://github.com/comradekingu) for the Norweigan Bokmål translation 🇳🇴
-- [@micheleriva](https://github.com/micheleriva) for the Italian translation 🇮🇹
-- [@Jolg42](https://github.com/jolg42) for the French translation 🇫🇷
-- [@Buricescu](https://github.com/Buricescu) for the Romanian translation 🇷🇴
-
-## Running Locally
-
-Quirk is built on React Native and therefore assumes you have [node](https://nodejs.org/en/) installed.
-[Yarn](https://yarnpkg.com/en/) is preferred over NPM as a package manager.
-
-```sh
-# clone the project and cd into it
-git clone git@github.com:Flaque/quirk.git; cd ./quirk
-
-# copy the sample .env (edit as required)
-cp .env.sample .env
-
-# install dependencies
-yarn
-
-# start development environment
-yarn start
-```
-
-You'll then be in the [expo development environment](https://docs.expo.io/versions/latest/).
-If you already have XCode installed with a simulator, you can just press `i` to start it.
-
-# Can I help?
-
-Of course!
-
-**If you like the app,** go give it 5 stars! It helps more people find the app.
-
-**If you're a mental health professional,** audit [the descriptions](https://github.com/Flaque/quirk/blob/master/src/locals/en.json) of the cognitive distortions. If you have suggestions, let me know and we'll change stuff!
-
-**If you can draw** and can make digital illustrations of the little blobs, let me know and I'll find a place to stick them in the app!
-
-**If you know a language other than English,** help [us translate the app!](/TRANSLATIONS.md)
-
-# Design
-
-Quirk's goal is to be both inviting and focused. It should be _really_ easy to enter in a thought; people frequently enter these in public settings and need to do it fairly quickly. It also should not cause any increased frustration.
-
-## Design Logic
-
-Quirk is built with two main goals in mind:
-
-- Don't be bloated
-- Don't be evil
-
-### Don't be bloated
-
-**Don't include features for one particular condition at the expense of other conditions.** For example, don't couple mood tracking to thought tracking. If a user _has_ to enter a mood in order to track a thought, then the entire app is ruined for people who use it for panic, OCD or another condition where mood isn't the primary focus.
-
-**Don't include non-CBT related treatments without good reason.** No relaxation audio tracks or meditation guides. It's a CBT app, keep it focused on CBT.
-
-**Don't include things that could be better accomplished by another app.** No one needs an in-app diary when a diary works just fine. No one needs an in-app heart rate tracker when a heart rate tracker works just fine.
-
-**Be quick and efficient.** Thoughts shouldn't take 5 minutes to enter and you should be able to skip fields if it's reasonable. Don't let the perfect be the enemy of the good.
-
-### Don't be Evil
-
-**Thoughts are more valuable than passwords, treat them that way.** Most people would rather give over their passwords than their CBT thoughts. They're incredibly private, occasionally involve other people, and frequently are embarrassing.
-
-**Don't have \$200 dollar in app purchases.** I'm looking at you CBT Thought Diary. I get it, developers need to make money. It costs a lot to just keep the app on the app store. But you're preying on vulnerable people. Very few people of rational mind will purposely spend \$200s for a dark mode.
-
-**Don't have dumb notifications.** Scheduling is fine, abusing push notifications so your app has better traffic is scummy and gross.
-
-**Be open.** Not every app has to be open source; it's a hard choice to make. But be clear and obvious within the app about what's going on with the user's data. Don't be sending it to some server without making that clear within the app, especially if it's not providing any extra utility to the user.
-
-**Don't push people to be unhappy.** Do not purposefully or accidentally force people to be unhappy to use their app. Don't force people to state their unhappy in order to access a feature. It's easy for this to sneak up in the design, if a user has to rate their happiness below average in order to access the CBT features, you're asking them to be unhappy to use your app.
-
-**Be extremely cautious about making engagement your core metric.** User engagement is fine to be concerned about. We all want people who need help to be actually engaging in the help. But holy moly becareful about this. You _do not_ want to drive something that is for many people a treatment into a self-perpetuating engagement loop. A ruthless focus on engagement has caused many a product to become skinner boxes. _No one should ever be addicted to your mental health app._
-
-# Engineering Logic
-
-Quirk _must not_ lose user data. The entire point of the app is to record your thoughts, so if you lost them it would be pretty bad. As stated in [one study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6010839/):
-
-> While an app failure in general can be inconvenient and annoying, it can have serious consequences in the context of mental health apps—someone who has come to rely on an app for emotional support can find a failure “devastating.”
-
-Therefore, data management should be given a higher priority than any other part of the app.
-
-## Taxonomy and Order of Data Failure Cases
-
-The following is a list of extremely _bad_ behaviors and states that could happen in order of severity.
-
-### 1 - Large Scale Data Corruption
-
-All thoughts have been corrupted somehow. For example, the JSON format of every item is wrong. This is put at the top because not only can a user not access the data, but it may spiral out can cause continuing errors forcing the app to be "bricked."
-
-### 2 - Large Scale Data Loss
-
-All thoughts have been deleted without any hope of recovery.
-
-### 3 - Small Scale Data Loss
-
-A small amount of data has been deleted without any hope of recovery.
-
-### 4 - Small Scale Data Corruption
-
-A small amount of data has been corrupted in a recoverable way. The user still has lost data, but the app does not crash, and this is potentially fixable via an update.
-
-# License
-
-Quirk is licensed under the [GPL](https://en.wikipedia.org/wiki/GNU_General_Public_License), which guarantees end users the freedom to study, share, and modify the software.
-
-Note that this license **does not** give free reign to redistribute the name and branding of quirk. So if you'd like to publish your own version, please rename it to avoid end-user confusion.
+Depression occurs more often in women than men. Some differences in the manner in which the depressed mood manifests have been found based on sex and age. In men it manifests often as tiredness, irritability and anger. They may show more reckless behavior and abuse drugs and alcohol. They also tend to not recognize that they are depressed and fail to seek help. In women depression tends to manifest as sadness, worthlessness, and guilt. In younger children depression is more likely to manifest as school refusal, anxiety when separated from parents, and worry about parents dying. Depressed teenagers tend to be irritable, sulky, and get into trouble in school. They also frequently have co-morbid anxiety, eating disorders, or substance abuse. In older adults depression may manifest more subtly as they tend to be less likely to admit to feelings of sadness or grief and medical illnesses which are more common in this population also contributes or causes the depression. 
